@@ -27,6 +27,7 @@
     "prettier"
   ],
   "rules": {
+    "no-unused-vars": "off",
     "prettier/prettier": "error",
     "@typescript-eslint/ban-ts-ignore": "off",
     "@typescript-eslint/camelcase": "off",
